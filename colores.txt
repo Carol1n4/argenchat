@@ -1,0 +1,8 @@
+gris="#f4f4f4"
+celeste="#71b6c6"
+azul="#2e75bc"
+rojo="#bd0b36"
+amarillo="#ddc252"
+verde="5f896e"
+
+# mas colores en https://github.com/datos-Fundar/fundartools/blob/main/python/fundar/colores.py
